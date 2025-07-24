@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    text-align: center;
+    margin: 50px;
+}
+.heading{
+    width: 100%;
+    
+}
+.container .heading h3{
+    text-align: center;
+    width: 100%;
+    margin: 25px;
+    color: #1863AB;
+    font-weight: 600;
+    font-size: 40px;
+    text-decoration: underline;
+    padding: 10px;
+}
+.Exam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+.fw-normal{
+    text-decoration: underline;
+    color:rgb(92, 53, 128);
+    font-size: 25px;
+}
+.row{
+    padding: 10px;
+}
